@@ -1,0 +1,3 @@
+GET https://tools.ietf.org/html/rfc1945#section-8 HTTP/1.0
+Host: tools.ietf.org
+User-Agent: HttpClient

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+	<person id ="1">
+		<lastName>Иванов</lastName>
+		<firstName>Иван</firstName>
+		<patronymic>Иванович</patronymic>
+		<characteristic>
+		<compoSition>основной</compoSition>
+		<positKol>защитник</positKol>
+		<kindOfSportKol>футбол</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>3</sportTitleDown>
+		</characteristic>
+	</person>
+	
+	<person id ="2">
+		<lastName>Кевра</lastName>
+		<firstName>Анжелика</firstName>
+		<patronymic>Сергеевна</patronymic>
+		<characteristic>
+		<compoSition>основной</compoSition>
+		<positKol>-</positKol>
+		<kindOfSportKol>теннис</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>2</sportTitleDown>
+		</characteristic>
+	</person>
+	
+	<person id ="3">
+		<lastName>Малевич</lastName>
+		<firstName>Дарья</firstName>
+		<patronymic>Александровна</patronymic>
+		<characteristic>
+		<compoSition>основной</compoSition>
+		<positKol>-</positKol>
+		<kindOfSportKol>большой теннис</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>2</sportTitleDown>
+		</characteristic>
+	</person>
+	
+		<person id ="4">
+		<lastName>Кучинская</lastName>
+		<firstName>Анна</firstName>
+		<patronymic>Леонидовна</patronymic>
+		<characteristic>
+		<compoSition>основной</compoSition>
+		<positKol>-</positKol>
+		<kindOfSportKol>большой теннис</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>5</sportTitleDown>
+		</characteristic>
+	</person>
+	
+	<person id ="5">
+		<lastName>Курилов</lastName>
+		<firstName>Евгений</firstName>
+		<patronymic>Николаевич</patronymic>
+		<characteristic>
+		<compoSition>запасной</compoSition>
+		<positKol>нападающий</positKol>
+		<kindOfSportKol>баскетбол</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>2</sportTitleDown>
+		</characteristic>
+	</person>
+	
+		<person id ="6">
+		<lastName>Кевра</lastName>
+		<firstName>Никита</firstName>
+		<patronymic>Александрович</patronymic>
+		<characteristic>
+		<compoSition>основной</compoSition>
+		<positKol>защитник</positKol>
+		<kindOfSportKol>баскетбол</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>3</sportTitleDown>
+		</characteristic>
+	</person>
+	
+	<person id ="7">
+		<lastName>Гудьян</lastName>
+		<firstName>Дмитриц</firstName>
+		<patronymic>Анатольевич</patronymic>
+		<characteristic>
+		<compoSition>основной</compoSition>
+		<positKol>-</positKol>
+		<kindOfSportKol>бокс</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>3</sportTitleDown>
+		</characteristic>
+	</person>
+	
+	<person id ="8">
+		<lastName>Иванов</lastName>
+		<firstName>Иван</firstName>
+		<patronymic>Иванович</patronymic>
+		<characteristic>
+		<compoSition>Запасной</compoSition>
+		<positKol>вратарь</positKol>
+		<kindOfSportKol>футбол</kindOfSportKol>
+		<sportTitleUp>1</sportTitleUp>
+		<sportTitleDown>2</sportTitleDown>
+		</characteristic>
+	</person>
+
+</Person>
